@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Akshay, and I am a Graduate Student @ UIUC. I am interested in Quantitative Finance, Data Science and Machine Learning!
+- 🤔 I’m looking for an Entry-level role as a Quantitative Researcher or Data Scientist
+- 💬 Ask me about ...
+- 📫 How to reach me: **Email**: apandit2@illinois.edu or pandit.akshay14@gmail.com **Linkedin**: [Akshay Pandit](https://www.linkedin.com/in/akshay-pandit/)
+- ⚡ Fun fact: I am an advantage player in BlackJack! (Yes, just like the guy in the movie 21!!)
 <!--
 **Akshay163/Akshay163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
